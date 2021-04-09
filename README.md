@@ -1,6 +1,6 @@
 # React & Node - ECommerce 
 
-## You Will Learn
+## Tools & Technologies :
 
 - HTML5 and CSS3: Semantic Elements, CSS Grid, Flexbox
 - React: Components, Props, Events, Hooks, Router, Axios
@@ -57,56 +57,56 @@ $ npm start
 We will create a hamburger menu that shows and hide the sidebar. Also, we design the details page of the products.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/3sceblg6i6790minhaxg.jpg)
 
-### [00:52:39 Part 06- Create React App](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=3159s)
+### [ Part 06- Create React App](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=3159s)
 
 This part is about the frontend. We use React library to build the UI elements.
 
-### [01:01:09 Part 07- Render Products](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=3669s)
+### [Part 07- Render Products](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=3669s)
 
 This is the home page of e-commerce. It shows a list of products.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/hqiwteg10o8a2cnq0wwi.jpg)
 
-### [01:06:30 Part 08- Product Details](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=3990s)
+### [Part 08- Product Details](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=3990s)
 
 When the user clicks on a product there should a page to show details about that product. This lesson is all about making an attractive details page.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/csskvzbcmz4ypki2xjgk.jpg)
 
-### [01:30:53 Part 09- Create Node Server](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=5453s)
+### [Part 09- Create Node Server](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=5453s)
 
 This part is about Node and Express. They are the popular framework to create a web server using JavaScript language. We will create a MongoDB database and save and retrieve the admin user.
 
-### [01:39:52 Part 10- Fetch Server Data](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=5992s)
+### [Part 10- Fetch Server Data](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=5992s)
 
-In this lesson, we use React Hooks to fetch data from the server. We use the axios library to do this job in a modern async/await style.
+In this part, we use React Hooks to fetch data from the server. We use the axios library to do this job in a modern async/await style.
 
-### [01:47:55 Part 11- Manage State With Redux](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=6475s)
+### [Part 11- Manage State With Redux](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=6475s)
 
 When it comes to handling multiple forms with their data nothing is better than state management. We use Redux in this lesson to handle complex state and keep the app behavior predictable.
 
-### [02:07:11 Part 12- Add Redux To Details](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=7631s)
+### [Part 12- Add Redux To Details](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=7631s)
 
 In this part, we move the details page state to Redux. First, we create reducers then define actions and connect them to the details component.
 
-### [02:29:23 Part 13- Shopping Cart Screen](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=8963s)
+### [ Part 13- Shopping Cart Screen](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=8963s)
 
 Shopping Cart is the heart of any e-commerce website. We focus on creating a user-friendly shopping cart using React and Redux.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/fyzf0no5ej1fgxp5972e.png)
 
-### [03:08:11 Part 14- Connect MongoDB](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=11291s)
+### [Part 14- Connect MongoDB](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=11291s)
 
-This lesson is about persisting data on the MongoDB database. We use mongoose package to create models and save and retrieve data from the database.
+This part is about persisting data on the MongoDB database. We use mongoose package to create models and save and retrieve data from the database.
 
-### [03:21:35 Part 15- Sign In User](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=12095s)
+### [Part 15- Sign In User](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=12095s)
 
 We need to register the user before redirecting them to the checkout. In this part, we will create forms for getting user info and save them in the database.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/92coj0rezr5508vhfv34.png)
 
-### [03:56:02 Part 16- Manage Products](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=14162s)
+### [Part 16- Manage Products](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=14162s)
 
 Admin should be able to define products and update the count in stock whenever they like. This page is about managing ECommerce products.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/154a5zk6vfapukjaxwyu.png)
 
-### [04:38:43 Part 17- Checkout Wizard](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=16723s)
+### [Part 17- Checkout Wizard](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=16723s)
 
 In this part, we implement the checkout wizard including sign in, shipping info, payment method, and place order.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/l8w3g9mc3ccijt70wpf3.png)
