@@ -15,8 +15,8 @@
 ### 1. Clone repo
 
 ```
-$ git clone git@github.com:basir/node-react-ecommerce.git
-$ cd node-react-ecommerce
+$ git clone git@github.com:haithemhcini/E-commerce-App.git
+$ cd E-commerce-App
 ```
 
 ### 2. Install MongoDB
