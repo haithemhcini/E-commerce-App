@@ -1,16 +1,4 @@
-# React & Node Tutorial - Full ECommerce in 5 Hours [2020]
-
-Welcome to my React and Node tutorial to build a fully-functional e-commerce website in 5 hours. Open your code editor and follow me for the next hours to build an e-commerce website using React and Node.JS.
-
-## Demo Website
-
-👉 Demo : https://oldamazona.webacademy.pro
-
-## Video Tutorial
-
-👉 Click on this image to watch full 5-hours video of this tutorial
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Fy9SdZLBTOo/0.jpg)](https://www.youtube.com/watch?v=Fy9SdZLBTOo)
+# React & Node - ECommerce 
 
 ## You Will Learn
 
@@ -21,7 +9,6 @@ Welcome to my React and Node tutorial to build a fully-functional e-commerce web
 - MongoDB: Mongoose, Aggregation
 - Development: ESLint, Babel, Git, Github,
 - Deployment: Heroku
-- Watch React & Node Tutorial
 
 ## Run Locally
 
@@ -66,32 +53,6 @@ $ npm start
 
 - Run http://localhost:3000/products
 - Click create product and enter product info
-
-## Support
-
-- Q/A: https://webacademy.pro/oldamazona
-- Contact Instructor: [Basir](mailto:basir.jafarzadeh@gmail.com)
-
-## Video Tutorials
-
-### [00:02:00 Part 01- Introduction](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=120s)
-
-It gives you an overview of the tutorial to build an eCommerce website like Amazon.
-
-### [00:08:26 Part 02- Install Tools](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=506s)
-
-You need to install a code editor and a web browser to start web development. In this part, we will prepare the environment to start coding.
-
-### [00:12:36 Part 03- Website Template](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=756s)
-
-In this part, you create a web template for the eCommerce website.
-![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/56kqn8m5n1m9fejdoxkz.png)
-
-### [00:29:47 Part 04- Products List](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=1787s)
-
-We will create a list of products as static HTML elements.
-
-### [00:41:54 Part 05- Create Sidebar](https://www.youtube.com/watch?v=Fy9SdZLBTOo&t=2514s)
 
 We will create a hamburger menu that shows and hide the sidebar. Also, we design the details page of the products.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/3sceblg6i6790minhaxg.jpg)
@@ -150,9 +111,6 @@ Admin should be able to define products and update the count in stock whenever t
 In this part, we implement the checkout wizard including sign in, shipping info, payment method, and place order.
 ![Alt Text](https://dev-to-uploads.s3.amazonaws.com/i/l8w3g9mc3ccijt70wpf3.png)
 
-## Only On Udemy
-
-Following parts are on my udemy course. [Get it by 90% discount](https://www.udemy.com/course/build-ecommerce-website-like-amazon-react-node-mongodb/?couponCode=BASIR1)
 
 ### Part 18- Order Details Screen
 
@@ -259,8 +217,3 @@ This section is about uploading images amazon aws s3 cloud server.
 16. ProductsScreen.js
 17. on handleUploadImage set axios.post('api/uploads/s3')
 18. check result on website and s3
-
-## Summary
-
-In this tutorial, we have made an eCommerce website like Amazon. Feel free to change this project based on your needs and add it to your portfolio.
-Also, I will love to hear your comment about this React and Node tutorial. Please share your thoughts here.
